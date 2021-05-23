@@ -1,4 +1,5 @@
 @file:JvmName("DemoUtils")
+@file: JvmMultifileClass
 
 package com.inderbagga.interoperability
 
