@@ -1,4 +1,4 @@
-package com.inderbagga.interoperability
+package com.inderbagga.interoperability.kinj
 
 import java.util.*
 

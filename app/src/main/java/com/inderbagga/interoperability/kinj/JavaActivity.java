@@ -1,4 +1,4 @@
-package com.inderbagga.interoperability;
+package com.inderbagga.interoperability.kinj;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -24,7 +24,7 @@ public class JavaActivity extends AppCompatActivity {
         Log.d("tag",tag);
         Log.d("version",version);
         Log.d("when",when);
-        Log.d("output",DemoUtils.foo());
+        Log.d("output", DemoUtils.foo());
 
 
         try {

@@ -1,7 +1,7 @@
 @file:JvmName("DemoUtils")
 @file: JvmMultifileClass
 
-package com.inderbagga.interoperability
+package com.inderbagga.interoperability.kinj
 
 import java.io.IOException
 import kotlin.jvm.Throws

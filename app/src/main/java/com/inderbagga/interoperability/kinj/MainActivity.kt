@@ -1,7 +1,8 @@
-package com.inderbagga.interoperability
+package com.inderbagga.interoperability.kinj
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.inderbagga.interoperability.R
 
 class MainActivity : AppCompatActivity() {
 
