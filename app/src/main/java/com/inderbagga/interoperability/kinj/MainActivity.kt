@@ -2,6 +2,7 @@ package com.inderbagga.interoperability.kinj
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.inderbagga.interoperability.R
 
 class MainActivity : AppCompatActivity() {
@@ -17,5 +18,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
     }
-
 }

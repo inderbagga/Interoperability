@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Interoperability">
-        <activity android:name=".jink.AnotherMainActivity">
+        <activity android:name=".ShutdownHookActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".jink.AnotherMainActivity"/>
         <activity android:name=".kinj.JavaActivity"/>
         <activity android:name=".kinj.MainActivity"/>
     </application>
